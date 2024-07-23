@@ -1,2 +1,1 @@
 Adding more content to the project.
-Adding Extremely Moregit commit -m Reverted project.txt to initial version!
